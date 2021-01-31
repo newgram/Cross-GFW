@@ -36,7 +36,11 @@ GFW的全称是Great Fire Wall。
 
 服务器地址就是你要找的代理人的地址，加密方式就是信件内容要怎样加密以骗过GFW的审查。
 
-以**https://www.google.com**为例，https是一种加密方式，www.google.com是收信人地址。使用如果使用https，收信人的地址是公开的，所以，GFW一看要访问Google的服务器，就直接对信动手脚，这封信就永远送不到Google手了。
+以**https://www.google.com** 为例，
+
+https是一种加密方式，www.google.com 是收信人地址。
+
+使用如果使用https，收信人的地址是公开的，所以，GFW一看要访问Google的服务器，就直接对信动手脚，这封信就永远送不到Google手了。
 
 所以我们地址不能直接填www.google.com了，要填另一个服务器的地址，既然要和代理说话，那语言也不能是https了，要换，所以，我们会看到如下的情况：
 
